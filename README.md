@@ -2,7 +2,7 @@
 
 # 🧠 SNIPER | GitHub Files Scanner
 
-```text
+```
 ███████╗███╗   ██╗██╗██████╗ ███████╗██████╗ 
 ██╔════╝████╗  ██║██║██╔══██╗██╔════╝██╔══██╗
 ███████╗██╔██╗ ██║██║██║  ██║█████╗  ██████╔╝
@@ -10,7 +10,7 @@
 ███████║██║ ╚████║██║██████╔╝███████╗██║  ██║
 ╚══════╝╚═╝  ╚═══╝╚═╝╚═════╝ ╚══════╝╚═╝  ╚═╝
         SNIPER | GitHub Files Security Scanner
-           Author: <YOUR NAME> | 2025 Edition
+           Author: <Gh. Ilyass> | 2025 Edition
 ```
 
 ---
@@ -55,7 +55,7 @@ The goal:
 ### Setup
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/SNIPER-Github-Files-Scanner.git
+git clone https://github.com/IlyassCODEX/SNIPER-Githubfiles.git
 cd SNIPER-Github-Files-Scanner
 pip install -r requirements.txt
 python -m playwright install
@@ -198,21 +198,11 @@ Immediate Risk: Could execute remote shell payloads.
 
 ---
 
-## 🧑‍💻 Contributing
-
-We welcome community improvements:
-
-1. Fork the repo
-2. Create a branch `feature/<name>`
-3. Submit a PR with details and test samples
-
-Contribute new **heuristics**, **regex detections**, or **language support**!
-
 ---
 
 ## 🧩 Credits
 
-* **Lead Developer:** `<YOUR NAME>`
+* **Lead Developer:** `<Gh. Ilyass>`
 * **Language:** Python 3
 * **Frameworks:** Playwright, aiohttp, colorama
 * **AI Integration:** DeepAI Chat
@@ -223,7 +213,7 @@ Contribute new **heuristics**, **regex detections**, or **language support**!
 
 ```
 MIT License
-Copyright (c) 2025 <YOUR NAME>
+Copyright (c) 2025 <Gh. Ilyass>
 ```
 
 ---
