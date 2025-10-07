@@ -54,7 +54,6 @@ The goal:
 
 ```bash
 git clone https://github.com/IlyassCODEX/SNIPER-Githubfiles.git
-cd SNIPER-Github-Files-Scanner
 pip install -r requirements.txt
 python -m playwright install
 ```
