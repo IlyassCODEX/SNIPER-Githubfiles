@@ -1,4 +1,3 @@
----
 
 # 🧠 SNIPER | GitHub Files Scanner
 
@@ -13,7 +12,6 @@
            Author: <Gh. Ilyass> | 2025 Edition
 ```
 
----
 
 ## 📜 Overview
 
@@ -215,15 +213,3 @@ Immediate Risk: Could execute remote shell payloads.
 MIT License
 Copyright (c) 2025 <Gh. Ilyass>
 ```
-
----
-
-## ⚡ Example Screenshots (Optional)
-
-*(add later for GitHub README visual impact)*
-
-* `SNIPER` scanning a repo in heuristic mode
-* `scan_report.txt` AI classification snippet
-* CLI banner with colored ASCII
-
----
